@@ -18,6 +18,7 @@ The pipeline supports situations where predictions and true labels are stored in
 
 
 📂 Project Workflow
+
 Phase 1: Train & Predict
 
 1.Load training and test datasets
@@ -29,6 +30,8 @@ Phase 1: Train & Predict
 4.Generate predictions and probabilities
 
 5.Save results to diabetes_predictions.csv
+
+
 
 Phase 2: Evaluate
 
@@ -72,8 +75,10 @@ The following preprocessing steps are applied:
 - Missing Values
 Filled using the median of each feature to preserve data size.
 
+
 - Categorical Encoding
 Binary and categorical variables (e.g., gender, family history) are label-encoded.
+
 
 - Feature Engineering
 
@@ -181,4 +186,4 @@ Data Source: Mendeley Data
 https://data.mendeley.com/datasets/m8cgwxs9s6/2
 
 Data Source: Mendeley Data
-https://data.mendeley.com/datasets/m8cgwxs9s6/2
+
