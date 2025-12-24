@@ -184,6 +184,3 @@ Clinical risk stratification studies
 Dataset License: CC BY 4.0
 Data Source: Mendeley Data
 https://data.mendeley.com/datasets/m8cgwxs9s6/2
-
-Data Source: Mendeley Data
-
